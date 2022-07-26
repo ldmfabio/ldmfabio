@@ -2,7 +2,7 @@
 <div>
 
 - 👨‍🏫 I’m currently working at <a href="http://araquari.ifc.edu.br">IFC</a>
-- 🎓 I’m almost finishing my PhD in Information Systems (IS) at <a href="https://www.uminho.pt/PT">UMinho</a> @<a href="http://www.dsi.uminho.pt/">DSI</a>
+- 🎓 I’m almost finishing my PhD in Information Systems (IS) @<a href="https://www.uminho.pt/PT">UMinho</a> @<a href="http://www.dsi.uminho.pt/">DSI</a>
 - 🏭 I’m looking to collaborate on <a href="https://fabricadesoftware.ifc.edu.br/pt-br/">Fábrica de Software</a>
 - 📫 How to reach me: @ldmfabio (<a href="https://about.me/ldmfabio">every social media</a>)
 
