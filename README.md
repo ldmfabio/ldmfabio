@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e83d84&height=120&section=header"/>
 <h2 align="center" style="color: #e83d84;">Ladies And Gentlemen</h2>
 <div>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e83d84&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Fabio+Longo+De+Moura;I'm+40+years+old;I+am+from+São+Francisco,+SC;👨‍🏫+I’m+currently+working+at+IFC-Campus+Araquari;🏭+I’m+looking+to+collaborate+on+Fábrica+de+Software;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
+<p><b>Hello!</b></p>
+<p><b>My name is Fábio! I'm 40 years old.</b></p>
+<p>I'm currently working at <b>IFC-Campus Araquari</b> and looking to colaborate on <b>Fábrica de Software.</b></p>
 </div>
 
 
