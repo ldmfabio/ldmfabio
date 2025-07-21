@@ -1,23 +1,38 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e83d84&height=120&section=header"/>
-<h2 align="center" style="color: #e83d84;">Ladies And Gentlemen</h2>
-<div>
-<p><b>Hello!</b></p>
-<p><b>My name is Fábio! I'm 40 years old.</b></p>
-<p>I'm currently working at <b>IFC-Campus Araquari</b> and looking to colaborate on <b>Fábrica de Software.</b></p>
-</div>
+# 💻 Olá, eu sou o Fábio!
+<p align="left">
+  Atualmente trabalho no <b>IFC-Campus Araquari</b>, buscando cada vez mais colaborar na <b>Fábrica de Software</b>.
+</p>
 
+## Sobre mim
+- Bacharel em Sistemas de Informação
+- Mestre em Sistemas de Informação
+- Doutorando em Tecnologias e Sistemas de Informação
 
+---
+<br>
 
-<div align="center">
+### 
+![snake gif](https://github.com/ldmfabio/ldmfabio/blob/output/github-contribution-grid-snake-dark.svg)
+
+###
+---
+
+## 📈 GitHub Stats
+<div style="float:left; width:100%">
   <a href="https://github.com/ldmfabio">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ldmfabio&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 <a href="https://github.com/ldmfabio">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ldmfabio&layout=donut&bg_color=141424&title_color=e83d84&text_color=8ef5fa&icon_color=2596be)](https://github.com/ldmfabio/ldmfabio"/>
 </a>
-  
 </div>
 
+---
+### Meu Portfólio Pessoal (em desenvolvimento...)
+
+![https://www.ldmfabio.space/](https://www.ldmfabio.space/)
+
+---
 ##
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ldmfabio&bg_color=141424&color=e63780&line=472258&point=504e4e&area=true&hide_border=true)](https://github.com/ldmfabio/ldmfabio)
 
@@ -32,18 +47,3 @@
 </div>
 
 ##
-
-
-<div align="center">
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e83d84&size=25&center=true&vCenter=true&width=1000&lines=Visit+Counter)](https://github/ldmfabio/)
-<p><img src="https://profile-counter.glitch.me/{ldmfabio}/count.svg" /></p> 
-
-</div>
-<img style="margin-top:10px" width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e83d84&height=120&section=footer"/>
-
-![snake gif](https://github.com/ldmfabio/ldmfabio/blob/output/github-contribution-grid-snake-dark.svg)
-
-<!---
-Cobrinha só ira funcionar quadno estiver no reademe do usuario ldmfabio
--->
