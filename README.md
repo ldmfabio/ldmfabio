@@ -30,8 +30,6 @@
 ---
 ## Meu Portfólio Pessoal (em desenvolvimento...)
 
-### [https://www.ldmfabio.space/](https://www.ldmfabio.space/)
-
 ---
 
 ## Tecnologias e linguagens 💻
