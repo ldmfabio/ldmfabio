@@ -6,7 +6,7 @@
 ## Sobre mim
 - Bacharel em Sistemas de Informação
 - Mestre em Sistemas de Informação
-- Doutorando em Tecnologias e Sistemas de Informação
+- Doutor em Tecnologias e Sistemas de Informação
 
 ---
 <br>
